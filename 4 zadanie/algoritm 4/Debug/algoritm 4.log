@@ -1,0 +1,17 @@
+﻿Построение начато 04.10.2022 2:15:02.
+     1>Проект "F:\Вартанов Алексей 21ВВ1\2 курс\отчёты\Алгоритмы и т.д\1 лаб\4 zadanie\algoritm 4\algoritm 4.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\algoritm 4.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         algoritm 4.vcxproj -> F:\Вартанов Алексей 21ВВ1\2 курс\отчёты\Алгоритмы и т.д\1 лаб\4 zadanie\Debug\algoritm 4.exe
+       FinalizeBuildStatus:
+         Файл "Debug\algoritm 4.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\algoritm 4.lastbuildstate".
+     1>Построение проекта "F:\Вартанов Алексей 21ВВ1\2 курс\отчёты\Алгоритмы и т.д\1 лаб\4 zadanie\algoritm 4\algoritm 4.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.07
